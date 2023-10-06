@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">activity2</string>
+    <string name="greeting">Selamat Malam</string>
+    <string name="name">Dari Gibli</string>
+</resources>
